@@ -1,5 +1,5 @@
 # Customer-Segmentation-using-Clustering-
-Customer Segmentation using Clustering (Machine Learning)
+Customer Segmentation using Clustering 
 
 
 ## Introduction 
